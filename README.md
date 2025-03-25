@@ -5,18 +5,18 @@
 ## Includes:
 
 - pnpm for package management
-- Vue 3
-- Auto-import Vue Components
-- Vite
+- Vue 3 with auto-importing components
 - Vue Router
+- VueUse
 - Pinia
+- UnoCSS
+- Storybook
+- Vite
 - Vitest
 - Playwright
 - ESLint
 - Antfu ESLint Config
 - OXLint
-- UnoCSS
-- VueUse
 
 ## Optional (but recommended)
 
